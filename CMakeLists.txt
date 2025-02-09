@@ -13,4 +13,5 @@ add_executable(cpp_practice main.cpp
         data_structure/list/DoublyLinkedList.h
         data_structure/list/DoublyNode.h
         data_structure/list/LinkedList.h
+        data_structure/queue/Queue.h
 )
